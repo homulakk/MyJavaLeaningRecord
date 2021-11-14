@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"practise_rollDice","c":"DiceUpgrade","l":"DiceUpgrade()","u":"%3Cinit%3E()"},{"p":"practise_rollDice","c":"DiceUpgrade","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"practise_rollDice","c":"DiceUpgrade","l":"rollDice(int)"}];updateSearchResults();
