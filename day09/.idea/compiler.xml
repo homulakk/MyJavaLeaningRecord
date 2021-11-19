@@ -2,7 +2,7 @@
 <project version="4">
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="day09" options="--add-modules java.base" />
+      <module name="day09" options="--add-modules java.base,java.datatransfer,java.desktop" />
     </option>
   </component>
 </project>
