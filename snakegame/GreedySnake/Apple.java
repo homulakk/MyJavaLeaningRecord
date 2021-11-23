@@ -1,4 +1,4 @@
-package snakegame;
+package snakegame.GreedySnake;
 
 import java.awt.*;
 import java.util.Random;

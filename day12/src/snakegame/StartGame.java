@@ -1,7 +1,7 @@
 package snakegame;
 
 
-public class SnakeGame {
+public class StarteGame {
     public static void main(String[] args) {
         Game game = new Game();
         game.init("贪吃蛇",Config.WINDOW_WIDTH,
